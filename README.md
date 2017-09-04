@@ -1,3 +1,3 @@
 # movieflix
 
-Creating webserver similar to Netflix
+Full stack development similar to Netflix
